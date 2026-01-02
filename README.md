@@ -7,8 +7,10 @@
 
 **vitorbro** · *Apaixonado por código que impacta. Desenvolvi apps para igreja ADESAM, dashboards IoT e ferramentas de produtividade. Pronto para contribuir em equipes ágeis!*
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitorbro&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbro&layout=compact&theme=radical&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vitorbroi&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbroi&layout=compact&theme=radical&hide_border=true" width="40%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbroi&theme=radical&hide_border=true" width="100%" />
 
 </div>
 
@@ -44,88 +46,28 @@
 - **[Live Demo]** | **[Código Fonte]**
 - 🛠️ **Stack:** Three.js · Express.js · SQLite · WebSockets
 
-<details>
-<summary>🔗 Links dos Projetos (Clique para expandir)</summary>
-
-**Projeto 1 - IoT Dashboard:**
-- Live Demo: https://vitorneves-iot-dashboard.netlify.app
-- Código: https://github.com/vitorbro/iot-dashboard-realtime
-
-**Projeto 2 - Calendário ADESAM:**
-- Live Demo: https://vitorneves-calendario-adesam.vercel.app  
-- Código: https://github.com/vitorbro/church-calendar-adesam
-
-**Projeto 3 - Relatórios:**
-- Live Demo: https://vitorneves-report-generator.netlify.app
-- Código: https://github.com/vitorbro/report-generator-pro
-
-**Projeto 4 - AI Chat:**
-- Live Demo: https://vitorneves-ai-chat.netlify.app
-- Código: https://github.com/vitorbro/ai-chat-gemini-firebase
-
-**Projeto 5 - Ragnarok Mods:**
-- Live Demo: https://vitorneves-ragnarok-mods.vercel.app
-- Código: https://github.com/vitorbro/ragnarok-mods-dashboard
-
-</details>
-
 ---
 
-## 🛠️ **Tech Stack** *(Logos Oficiais Bonitinhos!)*
+## 🛠️ **Tech Stack** *(Logos Perfeitos!)*
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" title="HTML5" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" title="CSS3" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript.svg" width="60" title="JavaScript" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" title="Bootstrap" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="60" title="TailwindCSS" />
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="60" title="PHP" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" title="Node.js" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" title="MySQL" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="60" title="Firebase" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" />
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="60" title="ESP/Arduino" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" title="Git" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" title="VS Code" />
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" title="Postman" />
-</td>
-<td></td>
-</tr>
-</table>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/ESP32_Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Libraries:** Chart.js | jsPDF | Three.js | Socket.io | Gemini API
 
@@ -133,12 +75,11 @@
 
 ---
 
-## 📊 **GitHub Activity**
+## 📊 **GitHub Stats & Trophies**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbro&theme=radical&hide_border=true" width="100%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbro&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=vitorbro&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbroi&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=vitorbroi&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" width="48%" />
 </div>
 
 ---
@@ -146,7 +87,7 @@
 ## 👥 **Sobre Mim**
 
 - 🎓 **Formado** Técnico Análise e Desenvolvimento de Sistemas - ETEC Jardim Ângela (2025)
-- 📚 **Próximo** Engenharia de Software - FIAP (2026)  
+- 📚 **Próximo** Engenharia de Software - FIAP (2026)
 - ⛪ **Membro** Assembleia de Deus Ministério ADESAM (DF/BSB)
 - 💼 **Objetivo** Estágio Júnior TI São Paulo (Full-Stack Web + IoT/Hardware)
 - 🏆 **Destaques** Projetos reais para igreja, automação residencial, debug complexo, deploys Netlify/Vercel/Firebase
@@ -158,15 +99,13 @@
 ## 📫 **Entre em Contato!**
 
 <div align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitolr00@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorneves)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorolivera2005@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514996860727)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vitorneves)
 </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vitorbro&style=flat-square&color=blue" alt="Visitantes" />
-<p><i>Feito com ❤️ usando GitHub, DevIcons e muito café ☕ | 02/01/2026</i></p>
+<p><i>Feito com ❤️ usando GitHub & Shields.io | 02/01/2026</i></p>
 </div>
 
 **⭐ Star se gostou! 💼 Estágio aberto! 📧 DMs bem-vindas!**
