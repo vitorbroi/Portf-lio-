@@ -3,52 +3,71 @@
 # 👋 Olá, sou **Vitor Neves**! 
 ### Desenvolvedor Full-Stack Júnior | ETEC ADS 2025 | Futuro FIAP Engenharia Software
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFCB91&center=true&vCenter=true&width=600&lines=🚀+Construindo+aplica%C3%A7%C3%B5es+web+escal%C3%A1veis;💻+Full-Stack+JS%2CPHP%2CSQL+Firebase;🤖+Automação+IoT+ESP32;⚡+Dashboard+Realtime;🎯+Estágio+TI+SP;🔥+Sempre+aprendendo!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFCB91&center=true&vCenter=true&width=600&lines=Construindo+aplica%C3%A7%C3%B5es+web+escal%C3%A1veis;Full-Stack+JS+PHP+SQL+Firebase;Automação+IoT+ESP32;Dashboard+Realtime;Estágio+TI+SP;Sempre+aprendendo!" alt="Typing SVG" />
 
 **vitorbroi** · *Apaixonado por código que impacta. Desenvolvi apps para igreja ADESAM, dashboards IoT e ferramentas de produtividade. Pronto para contribuir em equipes ágeis!*
 
 </div>
 
-## 🚀 **Projetos Destaque**
+---
 
-### 1. 📊 **IoT Dashboard Realtime** ⭐ *Mais Estrelas*
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> **Projetos Destaque**
+
+### 1. **IoT Dashboard Realtime** ⭐ *Mais Estrelas*
 **Dashboard web para monitoramento IoT ESP8266/ESP32 com Firebase Realtime. Gráficos dinâmicos, alertas push e histórico dados.**
-- **📈 Features:** Charts Chart.js, autenticação Firebase, multi-dispositivos, export CSV
-- **[Live Demo]** | **[Código Fonte]**
-- 🛠️ **Stack:** ESP32 · Firebase RTDB · React/JS · Chart.js · Bootstrap
 
-### 2. 🗓️ **Sistema Calendário Igreja ADESAM**
-**App web completo para eventos igreja: login, CRUD colorido, guest mode e admin dashboard.**
-- **📈 Features:** Auth Firebase, banco MySQL, calendário drag-drop, export PDF/iCal
-- **[Live Demo]** | **[Código Fonte]**
-- 🛠️ **Stack:** PHP · MySQL · JS Vanilla · Bootstrap 5 · jsPDF
+- **Features:** Charts Chart.js, autenticação Firebase, multi-dispositivos, export CSV
+- [Ver Demo](https://vitorneves-iot-dashboard.netlify.app) · [Código](https://github.com/vitorbroi/iot-dashboard-realtime)
+- **Stack:** ESP32 · Firebase RTDB · React/JS · Chart.js · Bootstrap
 
-### 3. 📈 **Gerador Relatórios Inteligente**
-**Gera relatórios PDF/Excel customizados de SQL queries, salva histórico e download seguro.**
-- **📈 Features:** Query builder visual, templates PDF, histórico usuário, multi-formato
-- **[Live Demo]** | **[Código Fonte]**
-- 🛠️ **Stack:** Node.js · PostgreSQL/MySQL · jsPDF · Firebase Auth
-
-### 4. 🤖 **Chat AI Firebase + Gemini API**
-**Chatbot avançado com histórico conversas, delete/reply, streaming e integração Gemini API.**
-- **📈 Features:** Streaming responses, histórico persistente, UI dark/light, export chat
-- **[Live Demo]** | **[Código Fonte]**
-- 🛠️ **Stack:** Firebase Hosting · Gemini API · Vanilla JS · Tailwind CSS
-
-### 5. 🎮 **Ragnarok Mods Dashboard**
-**Dashboard para gerenciamento de mods Ragnarok Online com upload, preview 3D e stats.**
-- **📈 Features:** Upload ZIP mods, preview Blender, banco SQLite, multiplayer sync
-- **[Live Demo]** | **[Código Fonte]**
-- 🛠️ **Stack:** Three.js · Express.js · SQLite · WebSockets
+<img src="https://via.placeholder.com/800x400/0D1117/FFCB91?text=IoT+Dashboard+Screenshot" width="100%" />
 
 ---
 
-## 🛠️ **Tech Stack**
+### 2. **Sistema Calendário Igreja ADESAM**
+**App web completo para eventos igreja: login, CRUD colorido, guest mode e admin dashboard.**
+
+- **Features:** Auth Firebase, banco MySQL, calendário drag-drop, export PDF/iCal
+- [Ver Demo](https://vitorneves-calendario-adesam.vercel.app) · [Código](https://github.com/vitorbroi/church-calendar-adesam)
+- **Stack:** PHP · MySQL · JS Vanilla · Bootstrap 5 · jsPDF
+
+<img src="https://via.placeholder.com/800x400/0D1117/6E5494?text=Calendar+App+Screenshot" width="100%" />
+
+---
+
+### 3. **Gerador Relatórios Inteligente**
+**Gera relatórios PDF/Excel customizados de SQL queries, salva histórico e download seguro.**
+
+- **Features:** Query builder visual, templates PDF, histórico usuário, multi-formato
+- [Ver Demo](https://vitorneves-report-generator.netlify.app) · [Código](https://github.com/vitorbroi/report-generator-pro)
+- **Stack:** Node.js · PostgreSQL/MySQL · jsPDF · Firebase Auth
+
+---
+
+### 4. **Chat AI Firebase + Gemini API**
+**Chatbot avançado com histórico conversas, delete/reply, streaming e integração Gemini API.**
+
+- **Features:** Streaming responses, histórico persistente, UI dark/light, export chat
+- [Ver Demo](https://vitorneves-ai-chat.netlify.app) · [Código](https://github.com/vitorbroi/ai-chat-gemini-firebase)
+- **Stack:** Firebase Hosting · Gemini API · Vanilla JS · Tailwind CSS
+
+---
+
+### 5. **Ragnarok Mods Dashboard**
+**Dashboard para gerenciamento de mods Ragnarok Online com upload, preview 3D e stats.**
+
+- **Features:** Upload ZIP mods, preview Blender, banco SQLite, multiplayer sync
+- [Ver Demo](https://vitorneves-ragnarok-mods.vercel.app) · [Código](https://github.com/vitorbroi/ragnarok-mods-dashboard)
+- **Stack:** Three.js · Express.js · SQLite · WebSockets
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> **Tech Stack**
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -70,19 +89,19 @@
 
 ---
 
-## 👥 **Sobre Mim**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25" /> **Sobre Mim**
 
-- 🎓 **Formado** Técnico Análise e Desenvolvimento de Sistemas - ETEC Jardim Ângela (2025)
-- 📚 **Próximo** Engenharia de Software - FIAP (2026)
-- ⛪ **Membro** Assembleia de Deus Ministério ADESAM (DF/BSB)
-- 💼 **Objetivo** Estágio Júnior TI São Paulo (Full-Stack Web + IoT/Hardware)
-- 🏆 **Destaques** Projetos reais para igreja, automação residencial, debug complexo
-- 🌍 **Idiomas** Português (BR) Nativo | Inglês Técnico Intermediário
-- 🎮 **Hobbies** Ragnarok Online mods, 3D printing, cripto mining, Roblox scripting
+- **Formado** Técnico Análise e Desenvolvimento de Sistemas - ETEC Jardim Ângela (2025)
+- **Próximo** Engenharia de Software - FIAP (2026)
+- **Membro** Assembleia de Deus Ministério ADESAM (DF/BSB)
+- **Objetivo** Estágio Júnior TI São Paulo (Full-Stack Web + IoT/Hardware)
+- **Destaques** Projetos reais para igreja, automação residencial, debug complexo
+- **Idiomas** Português (BR) Nativo | Inglês Técnico Intermediário
+- **Hobbies** Ragnarok Online mods, 3D printing, cripto mining, Roblox scripting
 
 ---
 
-## 📫 **Entre em Contato!**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="25" /> **Entre em Contato**
 
 <div align="center">
 
@@ -91,12 +110,14 @@
 
 </div>
 
+---
+
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=vitorbroi&style=flat-square&color=blue)
 
-*Feito com ❤️ por Vitor Neves | Full-Stack Dev em formação*
+*Desenvolvido por Vitor Neves | Full-Stack Developer*
 
-**⭐ Star nos projetos! · 💼 Aberto para oportunidades · 📧 DM aberta**
+**Disponível para oportunidades de estágio e freelance**
 
 </div>
